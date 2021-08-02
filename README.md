@@ -4,9 +4,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Filip-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipovici-bogdan-a0b694144/) [![Mail Badge](https://img.shields.io/badge/-@filipovici.bogdan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/filipovicibogdan/) [![Mail Badge](https://img.shields.io/badge/-bogdiusf-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bogdiusf@mail.com)
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🔭 I’m currently working at ROREG
+- :computer: Apple fan
+- 🤔 On a journey to perfecting my Front-End developer skills
 - 📫 How to reach me: bogdiusf@gmail.com.
 - 😄
 - ⚡ Fun fact: I play games and go to the GYM very often.
@@ -15,12 +15,9 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
-<br />
-<br />
-
 #### Business
 
-- :paperclip: [My Resume/CV](https://github.com/bogdiusf/bogdiusf/)
+- :paperclip: [My Resume/CV](https://github.com/bogdiusf/bogdiusf/blob/main/resume/CVFilipovici-Bogdan.pdf)
 - :email: bogdiusf@gmail.com
 
 #### Profile Visits
