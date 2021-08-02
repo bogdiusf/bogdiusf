@@ -9,7 +9,7 @@
 - 🤔 On a journey to perfecting my Front-End developer skills with React and JS
 - 📫 How to reach me: bogdiusf@gmail.com.
 - 😄 Coding, music and sports bring me joy
-- ⚡ Fun fact: I used to be a professional bodybuilder with 3 proven gold medals won for my country
+- ⚡ Fun fact: I used to be a professional bodybuilder, and in my spare time, I used to help others achieve their goals
 
 #### Top Technologies
 
