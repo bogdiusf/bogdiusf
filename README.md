@@ -39,7 +39,7 @@
 
 #### Business
 
-- :paperclip: [My Resume/CV](https://github.com/bogdiusf/bogdiusf/blob/main/resume/CVFilipovici-Bogdan.pdf)
+- :paperclip: [My Resume/CV](https://github.com/bogdiusf/bogdiusf/blob/main/resume/CV-Filipovici-Bogdan.pdf)
 - :email: bogdiusf@gmail.com
 
 #### Profile Visits
