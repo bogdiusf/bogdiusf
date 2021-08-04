@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Filip-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipovici-bogdan-a0b694144/) [![Mail Badge](https://img.shields.io/badge/-@filipovici.bogdan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/filipovicibogdan/) [![Mail Badge](https://img.shields.io/badge/-bogdiusf-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bogdiusf@mail.com)
 
-- 🔭 I’m currently working at ROREG as a software engineer
+- 🔭 I’m currently working at [ROREG](https://www.roreg.eu/) as a software engineer
 - :computer: Apple fan
 - 🤔 On a journey to perfecting my Front-End developer skills with React and JS
 - 📫 How to reach me: bogdiusf@gmail.com.
