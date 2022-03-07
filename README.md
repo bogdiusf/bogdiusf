@@ -4,9 +4,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Filip-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipovici-bogdan-a0b694144/) [![Mail Badge](https://img.shields.io/badge/-@filipovici.bogdan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/filipovicibogdan/) [![Mail Badge](https://img.shields.io/badge/-bogdiusf-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bogdiusf@mail.com)
 
-- 🔭 I’m currently working at [ROREG](https://www.roreg.eu/) as a software engineer
+- 🔭 I’m currently working at [Endava](https://www.endava.com/) as a junior frontend developer
 - :computer: Apple fan
-- 🤔 On a journey to perfecting my Front-End developer skills with React and JS
+- 🤔 On a journey to perfecting my Frontend developer skills with React and JS
 - 📫 How to reach me: bogdiusf@gmail.com.
 - 😄 Coding, music and sports bring me joy
 - ⚡ Fun fact: I used to be a professional bodybuilder, and in my spare time, I used to help others achieve their goals
@@ -37,16 +37,25 @@
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Sublime Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 
-#### Business
+### My wish to learn stack
 
-- :paperclip: [My Resume/CV](https://github.com/bogdiusf/bogdiusf/blob/main/resume/CV-Filipovici-Bogdan.pdf)
+[![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](#)
+[![ExpressJS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+
+<hr />
+
+### Business
+
+- :paperclip: [My Resume/CV](https://github.com/bogdiusf/bogdiusf/blob/main/resume/FilipoviciBogdan_CV.pdf)
 - :email: bogdiusf@gmail.com
 
-#### Profile Visits
+### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bogdiusf.bogdiusf)
 
-#### Github Stats
+### Github Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=bogdiusf&count_private=true&theme=tokyonight&hide=contribs,prs)
 
