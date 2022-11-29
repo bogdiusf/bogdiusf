@@ -48,7 +48,7 @@
 
 ### Business
 
-- :paperclip: [My Resume/CV](https://github.com/bogdiusf/bogdiusf/blob/main/resume/FilipoviciBogdan_CV.pdf)
+- :paperclip: [My Resume/CV](https://github.com/bogdiusf/bogdiusf/blob/main/resume/CV - Bogdan Filipovici - 29.11.2022.pdf)
 - :email: bogdiusf@gmail.com
 
 ### Profile Visits
