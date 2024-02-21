@@ -9,7 +9,6 @@
 - 🤔 On a journey to perfecting my Frontend developer skills with React and JS
 - 📫 How to reach me: bogdiusf@gmail.com.
 - 😄 Coding, music and sports bring me joy
-- ⚡ Fun fact: I used to be a professional bodybuilder, and in my spare time, I used to help others achieve their goals
 
 ### Top Technologies
 
@@ -50,10 +49,6 @@
 
 - :paperclip: [My Resume/CV](https://github.com/bogdiusf/bogdiusf/blob/main/resume/Bogdan_Filipovici_29.11.2022.pdf)
 - :email: bogdiusf@gmail.com
-
-### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bogdiusf.bogdiusf)
 
 ### Github Stats
 
