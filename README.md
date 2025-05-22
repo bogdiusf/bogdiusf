@@ -1,58 +1,68 @@
-# Hi I'm Filip <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<div align="center">
 
-## :mailbox: Reach out to me!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Filip Bogdan
 
-[![Linkedin Badge](https://img.shields.io/badge/-Filip-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipovici-bogdan-a0b694144/) [![Mail Badge](https://img.shields.io/badge/-@filipovici.bogdan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/filipovicibogdan/) [![Mail Badge](https://img.shields.io/badge/-bogdiusf-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bogdiusf@mail.com)
+> ### _"Show, don't tell"_
 
-- 🔭 I’m currently working at [Amdaris](https://amdaris.com/) as a React Developer
-- :computer: Apple fan
-- 🤔 On a journey to perfecting my Frontend developer skills with React and JS
-- 📫 How to reach me: bogdiusf@gmail.com.
-- 😄 Coding, music and sports bring me joy
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=React+Developer;Frontend+Enthusiast;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
-### Top Technologies
+[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://filipovici.dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/filipovici-bogdan-a0b694144/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/filipovicibogdan/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:bogdiusf@gmail.com)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org/) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://www.javascript.com/) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org/en/) [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/html5/) [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+</div>
 
-### Other technologies
+## 🚀 About Me
 
-[![JSON Badge](https://img.shields.io/badge/-JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
-[![NPM Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#)
-[![YARN BADGE](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](#)
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![Electron Badge](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![Styled-components badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](#)
-[![MaterialUI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
-[![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
-[![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](#)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)
-[![Github Actions Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#)
-[![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)](#)
+```javascript
+const filip = {
+  currentRole: "React Developer at Amdaris",
+  passions: ["frontend development", "clean code", "user experience"],
+  dailyTools: ["react", "react-query", "zustand", "javascript", "css", "html"],
+  interests: ["coding", "music", "sports"],
+  currentFocus: "Perfecting my Frontend skills with React and modern state management",
+  funFact: "Apple enthusiast 🍎"
+};
+```
 
-### Favorite IDE's
+## 💻 Tech Stack
 
-[![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Sublime Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
+<div align="center">
 
-### My wish to learn stack
+### Core Technologies
 
-[![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](#)
-[![ExpressJS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&labelColor=black&logo=react%20query&logoColor=FF4154)
+![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=for-the-badge&labelColor=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48cGF0aCBmaWxsPSIjZGVjYjliIiBkPSJNMjAgMEMxNC4yNyAwIDkuMTEgMi40MSA1LjU5IDUuOTNDMi4wNyA5LjQ1IDAgMTQuNjEgMCAyMC4zNEMwIDI2LjA3IDIuMDcgMzEuMjMgNS41OSAzNC43NUM5LjExIDM4LjI3IDE0LjI3IDQwIDIwIDQwQzI1LjczIDQwIDMwLjg5IDM4LjI3IDM0LjQxIDM0Ljc1QzM3LjkzIDMxLjIzIDQwIDI2LjA3IDQwIDIwLjM0QzQwIDE0LjYxIDM3LjkzIDkuNDUgMzQuNDEgNS45M0MzMC44OSAyLjQxIDI1LjczIDAgMjAgMFoiLz48L3N2Zz4=&logoColor=decb9b)
+![JavaScript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<hr />
 
-### Business
+</div>
 
-- :paperclip: [My Resume/CV](https://github.com/bogdiusf/bogdiusf/blob/main/resume/Bogdan_Filipovici_29.11.2022.pdf)
-- :email: bogdiusf@gmail.com
 
-### Github Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=bogdiusf&count_private=true&theme=tokyonight&hide=contribs,prs)
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bogdiusf&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bogdiusf&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=bogdiusf&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=bogdiusf&style=flat-square&color=blue" alt="Profile views" />
+
+<sub>Last updated: May 2025</sub>
+</div>
+
+
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
