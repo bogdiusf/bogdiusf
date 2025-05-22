@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Filip Bogdan
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Filip
 
 > ### _"Show, don't tell"_
 
@@ -18,7 +18,7 @@ const filip = {
   passions: ["frontend development", "clean code", "user experience"],
   dailyTools: ["react", "react-query", "zustand", "javascript", "css", "html"],
   interests: ["coding", "music", "sports"],
-  currentFocus: "Perfecting my Frontend skills with React and modern state management",
+  currentFocus: "Perfecting my fullstack skills with React and serverless",
   funFact: "Apple enthusiast 🍎"
 };
 ```
@@ -31,9 +31,12 @@ const filip = {
 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&labelColor=black&logo=react%20query&logoColor=FF4154)
 ![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=for-the-badge&labelColor=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48cGF0aCBmaWxsPSIjZGVjYjliIiBkPSJNMjAgMEMxNC4yNyAwIDkuMTEgMi40MSA1LjU5IDUuOTNDMi4wNyA5LjQ1IDAgMTQuNjEgMCAyMC4zNEMwIDI2LjA3IDIuMDcgMzEuMjMgNS41OSAzNC43NUM5LjExIDM4LjI3IDE0LjI3IDQwIDIwIDQwQzI1LjczIDQwIDMwLjg5IDM4LjI3IDM0LjQxIDM0Ljc1QzM3LjkzIDMxLjIzIDQwIDI2LjA3IDQwIDIwLjM0QzQwIDE0LjYxIDM3LjkzIDkuNDUgMzQuNDEgNS45M0MzMC44OSAyLjQxIDI1LjczIDAgMjAgMFoiLz48L3N2Zz4=&logoColor=decb9b)
-![JavaScript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
